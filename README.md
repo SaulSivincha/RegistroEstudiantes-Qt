@@ -14,11 +14,7 @@ Aplicación de escritorio desarrollada en C++ con Qt 6 para registrar estudiante
 
 ## Capturas
 
-![Interfaz de RegistroEstudiantes](assets/interfaz-01.png)
-
-![Evidencia de la aplicación](assets/interfaz-02.png)
-
-> Nota: reemplaza las dos imágenes de `assets/` por las capturas reales de la aplicación antes de la entrega.
+![Captura de RegistroEstudiantes](assets/README.png)
 
 ## Compilación
 
